@@ -12,7 +12,7 @@ public class Main{
         System.out.print("El resultado es ");
         System.out.println (varA + varB + varC);
 
-        Coche miCoche = new Coche(4);
+        Coche miCoche = new Coche(0);
         System.out.println(miCoche);
     }
 }
