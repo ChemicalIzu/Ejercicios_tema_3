@@ -22,7 +22,6 @@ public class Coche {
     }
 
     public int numDoor() {
-        //System.out.println(numPuertas + 1 );
         return numPuertas;
     }
 
