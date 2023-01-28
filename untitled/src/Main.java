@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Main{
     public static void main(String[]args){
+        System.out.println("Escriba 3 numeros y a continuacion se le mostrara el resultado ");
         int varA;
         int varB;
         int varC;
